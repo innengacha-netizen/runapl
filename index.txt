@@ -31,5 +31,19 @@
 "dustcell stigma",
 "dustcell tomoshibi",
 "dustcell vagabond",
-"dustcell void"
+"dustcell void",
+"nsr vs sayu",
+"precure danzen",
+"precure dreams are the path to the future",
+"precure hope rainbow",
+"precure hugtto future dreamer",
+"precure hugtto yell for you",
+"precure lets la cookin showtime",
+"precure love link",
+"precure memory",
+"precure miracle tto link ring",
+"precure oshiete twinkle",
+"precure papepipu romantic",
+"precure shubidubi sweets time",
+"precure sparkle star twinkle"
 }
